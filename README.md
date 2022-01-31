@@ -1,0 +1,2 @@
+# Classification-Using-BERT-Tensorflow-detailed
+Bidirectional Encoder Representations from Transformers (BERT) is a transformer-based machine learning technique for natural language processing (NLP) .It  is based on Transformers, a deep learning model in which every output element is connected to every input element, and the weightings between them are dynamically calculated based upon their connection
